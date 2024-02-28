@@ -2,8 +2,8 @@
 
 Access our notebooks in JupyterLite:
 
-* [retro](https://callysto.github.io/jupyterlite/retro)
-* [lab](https://callysto.github.io/jupyterlite)
+* [retro](https://mrbubbleman.github.io/jupyterlite/retro)
+* [lab](https://mrbubbleman.github.io/jupyterlite)
 
 JupyterLite documentation:
 
